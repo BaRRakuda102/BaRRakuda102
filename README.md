@@ -10,5 +10,9 @@
 ![CSS](https://img.shields.io/badge/CSS-2F4F4F?style=for-the-badge&logo=CSS)
 ![Selenide](https://img.shields.io/badge/Selenide-2F4F4F?style=for-the-badge&logo=Selenide)
 ![Allure Report](https://img.shields.io/badge/Allure-2F4F4F?style=for-the-badge&logo=Allure)
-![Github](https://img.shields.io/badge/Github-2F4F4F?style=for-the-badge&logo=Github)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2F4F4F?style=for-the-badge&logo=Jenkins&logoColor=D3D3D3)
+
+### Follow me
+[![Instagram](https://img.shields.io/badge/Instagram-2F4F4F?style=for-the-badge&logo=Instagram)](https://instagram.com/salazar_del_mar?igshid=YmMyMTA2M2Y)
+[![VK](https://img.shields.io/badge/VK-2F4F4F?style=for-the-badge&logo=VK)](https://vk.com/barrakuda102)
+
