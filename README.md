@@ -2,7 +2,7 @@
 
 ## Hello my friends
 
-###Language and Tools
+### Language and Tools
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg">
 <img width="6%" title="Java" src="https://starchenkov.pro/qa-guru/img/skills/Java.svg">
